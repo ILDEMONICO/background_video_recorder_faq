@@ -20,7 +20,7 @@
 
   <string name="app_name">Registrazione video in background</string>
 
-    <string name="close">Vicino</string>
+    <string name="close">Chiudi</string>
 
   <string name="default_text">Predefinito</string>
 
@@ -28,7 +28,7 @@
 
   <string name="no_ads_text">(Senza pubblicità)</string>
 
-  <string name="zoom_text">lo zoom</string>
+  <string name="zoom_text">Zoom</string>
   <string name="reset">ripristinare</string>
 
     <string name="camera">Telecamera</string>
